@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 230, 226);
+    color: #222;
+}
+
+header{
+    background-color: rgb(31, 48, 31);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.3s; /* deixa suave a animação */
+
+}
+
+header:hover{
+    box-shadow: 0 0 20px rgb(28, 65, 36);
+
+}
+
+header h1{
+    font-size: 50px;
+    margin: 0;
+}
+
+nav{
+    background-color: rgb(117, 163, 127);
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 0;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(226, 223, 223);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+section{
+    padding: 20px 20px; /*espaçamento da sessão*/
+}
+
+section h2{
+    margin-bottom: 20px;
+    color: rgb(3, 3, 3); /*cor do títulos dos cards*/
+}
+
+.card-ac{
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
+    gap: 20px;
+}
+
+footer{
+    background-color: rgb(73, 60, 85);
+    color: navajowhite;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+
+}
