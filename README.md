@@ -1,6 +1,6 @@
 # 🌿 Acre: História & Cultura  
 
-Este projeto foi desenvolvido com muito carinho por Leandro** e Anna Júlia 💚.  
+Este projeto foi desenvolvido com muito carinho por Leandro e Anna Júlia 💚.  
 Nosso objetivo é compartilhar a beleza, a cultura e a história do Acre através de um site simples e acolhedor.  
 
 ✨ O que você vai encontrar
